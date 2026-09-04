@@ -13,6 +13,9 @@ Electrical Engineering student at San José State University interested in elect
 ### PCB Design and Hardware
 
 - [EE122 PCB Voltage Multiplier](https://github.com/aMikalEE/EE122-PCB-Voltage-Multiplier)
+### Digital Design and Verilog
+
+- [Verilog Moore Sequence Detector](https://github.com/aMikalEE/Verilog-Moore-Sequence-Detector)
 ### Programming
 
 - [Array-Based Playlist](https://github.com/aMikalEE/ArrayBasedPlaylist)
