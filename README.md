@@ -13,6 +13,9 @@ Electrical Engineering student at San José State University interested in elect
 ### PCB Design and Hardware
 
 - [EE122 PCB Voltage Multiplier](https://github.com/aMikalEE/EE122-PCB-Voltage-Multiplier)
+### Embedded Systems and Microcontrollers
+
+- [EE 120 Lab 1: STM32 LED and Push Button](https://github.com/aMikalEE/EE120-Lab1-STM32-LED-Button)
 ### Digital Design and Verilog
 
 - [Verilog Moore Sequence Detector](https://github.com/aMikalEE/Verilog-Moore-Sequence-Detector)
