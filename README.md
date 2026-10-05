@@ -12,7 +12,7 @@ Electrical Engineering student at San José State University interested in elect
 - [Second-Order Butterworth Filters](https://github.com/aMikalEE/Second-Order-Butterworth-Filters)
 ### PCB Design and Hardware
 
-- [EE122 PCB Voltage Multiplier](https://github.com/aMikalEE/EE122-PCB-Voltage-Multiplier)
+- [PCB Voltage Multiplier](https://github.com/aMikalEE/EE122-PCB-Voltage-Multiplier)
 ### Embedded Systems and Microcontrollers
 
 - [STM32 LED and Push Button](https://github.com/aMikalEE/EE120-Lab1-STM32-LED-Button)
