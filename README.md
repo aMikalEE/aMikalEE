@@ -15,9 +15,9 @@ Electrical Engineering student at San José State University interested in elect
 - [EE122 PCB Voltage Multiplier](https://github.com/aMikalEE/EE122-PCB-Voltage-Multiplier)
 ### Embedded Systems and Microcontrollers
 
-- [EE 120 Lab 1: STM32 LED and Push Button](https://github.com/aMikalEE/EE120-Lab1-STM32-LED-Button)
-- [EE 120 Lab 2: Stepper Motor Control](https://github.com/aMikalEE/EE120-Lab2-Stepper-Motor-Control)
-- [EE 120 Lab 3: Keypad and OLED Interface](https://github.com/aMikalEE/EE120-Lab3-Keypad-OLED)
+- [STM32 LED and Push Button](https://github.com/aMikalEE/EE120-Lab1-STM32-LED-Button)
+- [Stepper Motor Control](https://github.com/aMikalEE/EE120-Lab2-Stepper-Motor-Control)
+- [Keypad and OLED Interface](https://github.com/aMikalEE/EE120-Lab3-Keypad-OLED)
 ### Digital Design and Verilog
 
 - [Verilog Moore Sequence Detector](https://github.com/aMikalEE/Verilog-Moore-Sequence-Detector)
